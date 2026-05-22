@@ -14,7 +14,6 @@ dist/
 *.py[cod]
 
 # Log files
-*.log
 
 # Package files
 *.jar
