@@ -1,0 +1,38 @@
+--- TỔNG HỢP TRUNG BÌNH SUMMARY: MPPI | MAP: map ---
+
+** Safety Filter: Bật (Total runs: 20, Successful: 18) **
+- Success Rate: 90.0%
+- Remaining_Dist: 0.4838
+- Total_Time: 250.7217
+- Collisions: 0.6667
+- Min_Dist: 0.3194
+- Actual_Path: 47.2956
+- AStar_Path: 48.0000
+- RMS_Vx: 0.1427
+- RMS_Vy: 0.1158
+- RMS_Yaw: 0.2492
+- Jerk_Vx: 0.0445
+- Jerk_Vy: 0.0779
+- Jerk_Yaw: 0.2656
+- RMS_Roll: 0.0791
+- RMS_Pitch: 0.0895
+- Composite_Stability (RSS Roll/Pitch): 0.1202 rad
+
+** Safety Filter: Tắt (Total runs: 20, Successful: 17) **
+- Success Rate: 85.0%
+- Remaining_Dist: 0.4819
+- Total_Time: 155.9182
+- Collisions: 3.0000
+- Min_Dist: 0.2774
+- Actual_Path: 48.4459
+- AStar_Path: 48.0000
+- RMS_Vx: 0.1839
+- RMS_Vy: 0.1704
+- RMS_Yaw: 0.2981
+- Jerk_Vx: 0.0434
+- Jerk_Vy: 0.1566
+- Jerk_Yaw: 0.3183
+- RMS_Roll: 0.1573
+- RMS_Pitch: 0.1094
+- Composite_Stability (RSS Roll/Pitch): 0.1919 rad
+

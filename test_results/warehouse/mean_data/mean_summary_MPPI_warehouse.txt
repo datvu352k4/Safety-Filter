@@ -1,0 +1,54 @@
+--- TỔNG HỢP TRUNG BÌNH SUMMARY: MPPI | MAP: warehouse ---
+
+** Safety Filter: Bật (Total runs: 30, Successful: 30) **
+- Success Rate: 100.0%
+- Remaining_Dist: 0.4920 ± 0.0050
+- Total_Time: 84.8980 ± 6.8314
+- Collisions: 0.0333 ± 0.1795
+- Min_Dist: 0.4062 ± 0.0570
+- Actual_Path: 16.6880 ± 0.3505
+- AStar_Path: 16.7800 ± 0.0000
+- RMS_Vx: 0.0795 ± 0.0212
+- RMS_Vy: 0.1231 ± 0.0123
+- RMS_Yaw: 0.3311 ± 0.0086
+- Jerk_Vx: 0.0373 ± 0.0073
+- Jerk_Vy: 0.0889 ± 0.0134
+- Jerk_Yaw: 0.3834 ± 0.0153
+- RMS_Roll: 0.0640 ± 0.0101
+- RMS_Pitch: 0.0986 ± 0.0112
+- Composite_Stability (RSS Roll/Pitch): 0.1179 ± 0.0119 rad
+- Terrain/Friction Change Timestamps (Average across runs):
+  + Change 1: 14.5425 ± 0.6574 s (from 30 runs)
+  + Change 2: 35.5249 ± 21.5114 s (from 30 runs)
+  + Change 3: 40.0496 ± 24.2231 s (from 30 runs)
+  + Change 4: 67.8449 ± 9.1587 s (from 26 runs)
+  + Change 5: 74.3787 ± 8.0560 s (from 26 runs)
+  + Change 6: 79.5732 ± 5.4456 s (from 14 runs)
+  + Change 7: 82.8919 ± 5.3652 s (from 14 runs)
+
+** Safety Filter: Tắt (Total runs: 30, Successful: 30) **
+- Success Rate: 100.0%
+- Remaining_Dist: 0.4830 ± 0.0105
+- Total_Time: 57.1050 ± 6.1691
+- Collisions: 2.3333 ± 1.4682
+- Min_Dist: 0.2996 ± 0.0204
+- Actual_Path: 18.0030 ± 0.5487
+- AStar_Path: 16.7800 ± 0.0000
+- RMS_Vx: 0.1612 ± 0.0459
+- RMS_Vy: 0.1869 ± 0.0138
+- RMS_Yaw: 0.3232 ± 0.0174
+- Jerk_Vx: 0.0585 ± 0.0260
+- Jerk_Vy: 0.1662 ± 0.0240
+- Jerk_Yaw: 0.3456 ± 0.0274
+- RMS_Roll: 0.1173 ± 0.0155
+- RMS_Pitch: 0.1340 ± 0.0142
+- Composite_Stability (RSS Roll/Pitch): 0.1785 ± 0.0171 rad
+- Terrain/Friction Change Timestamps (Average across runs):
+  + Change 1: 12.7391 ± 0.4743 s (from 30 runs)
+  + Change 2: 39.0230 ± 12.1533 s (from 30 runs)
+  + Change 3: 42.6554 ± 13.2087 s (from 30 runs)
+  + Change 4: 50.8077 ± 7.8773 s (from 30 runs)
+  + Change 5: 52.6871 ± 7.6443 s (from 19 runs)
+  + Change 6: 50.5162 ± 5.4721 s (from 6 runs)
+  + Change 7: 58.7173 ± 0.0000 s (from 1 runs)
+

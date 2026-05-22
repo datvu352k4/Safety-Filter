@@ -1,0 +1,38 @@
+--- TỔNG HỢP TRUNG BÌNH SUMMARY: DWA | MAP: map2 ---
+
+** Safety Filter: Bật (Total runs: 30, Successful: 29) **
+- Success Rate: 96.7%
+- Remaining_Dist: 0.4846 ± 0.0094
+- Total_Time: 51.1103 ± 5.8474
+- Collisions: 0.5862 ± 0.8912
+- Min_Dist: 0.3336 ± 0.0546
+- Actual_Path: 15.2231 ± 0.4082
+- AStar_Path: 15.2700 ± 0.0000
+- RMS_Vx: 0.0885 ± 0.0166
+- RMS_Vy: 0.0556 ± 0.0030
+- RMS_Yaw: 0.0647 ± 0.0050
+- Jerk_Vx: 0.0556 ± 0.0044
+- Jerk_Vy: 0.0568 ± 0.0045
+- Jerk_Yaw: 0.0623 ± 0.0057
+- RMS_Roll: 0.1151 ± 0.0187
+- RMS_Pitch: 0.1311 ± 0.0201
+- Composite_Stability (RSS Roll/Pitch): 0.1751 ± 0.0227 rad
+
+** Safety Filter: Tắt (Total runs: 30, Successful: 27) **
+- Success Rate: 90.0%
+- Remaining_Dist: 0.4871 ± 0.0102
+- Total_Time: 42.5367 ± 4.6660
+- Collisions: 1.7037 ± 1.1487
+- Min_Dist: 0.3015 ± 0.0321
+- Actual_Path: 15.1100 ± 0.5336
+- AStar_Path: 15.2700 ± 0.0000
+- RMS_Vx: 0.1294 ± 0.0329
+- RMS_Vy: 0.0591 ± 0.0030
+- RMS_Yaw: 0.0749 ± 0.0032
+- Jerk_Vx: 0.0531 ± 0.0070
+- Jerk_Vy: 0.0548 ± 0.0057
+- Jerk_Yaw: 0.0680 ± 0.0059
+- RMS_Roll: 0.1528 ± 0.0218
+- RMS_Pitch: 0.1427 ± 0.0208
+- Composite_Stability (RSS Roll/Pitch): 0.2099 ± 0.0244 rad
+

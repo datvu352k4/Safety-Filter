@@ -1,0 +1,162 @@
+================================================================================
+CASE STUDY SUMMARY - MAP: MAP1 (Seed: 35)
+================================================================================
+
+** Configuration: Safety Filter On **
+- Velocity X |vx| (m/s):
+  + Raw Data:
+    * Max (Peak Top)   : 1.753300
+    * Min (Peak Bottom): 0.249500
+    * Mean (Average)   : 0.953138
+  + Smoothed Data (Plotted):
+    * Max (Peak Top)   : 1.746717
+    * Min (Peak Bottom): 0.391533
+    * Mean (Average)   : 0.951694
+- Velocity Y |vy| (m/s):
+  + Raw Data:
+    * Max (Peak Top)   : 0.999900
+    * Min (Peak Bottom): 0.000400
+    * Mean (Average)   : 0.361359
+  + Smoothed Data (Plotted):
+    * Max (Peak Top)   : 0.999900
+    * Min (Peak Bottom): 0.074233
+    * Mean (Average)   : 0.361730
+- Stability Index RSS (rad):
+  + Raw Data:
+    * Max (Peak Top)   : 0.485945
+    * Min (Peak Bottom): 0.002608
+    * Mean (Average)   : 0.096917
+  + Smoothed Data (Plotted):
+    * Max (Peak Top)   : 0.395659
+    * Min (Peak Bottom): 0.008601
+    * Mean (Average)   : 0.096874
+- Body Height (m):
+  + Raw Data:
+    * Max (Peak Top)   : 0.338400
+    * Min (Peak Bottom): 0.132000
+    * Mean (Average)   : 0.281570
+  + Smoothed Data (Plotted):
+    * Max (Peak Top)   : 0.324867
+    * Min (Peak Bottom): 0.152550
+    * Mean (Average)   : 0.281675
+
+** Configuration: Safety Filter Off **
+- Velocity X |vx| (m/s):
+  + Raw Data:
+    * Max (Peak Top)   : 2.000000
+    * Min (Peak Bottom): 0.007200
+    * Mean (Average)   : 1.910678
+  + Smoothed Data (Plotted):
+    * Max (Peak Top)   : 2.000000
+    * Min (Peak Bottom): 0.184442
+    * Mean (Average)   : 1.908202
+- Velocity Y |vy| (m/s):
+  + Raw Data:
+    * Max (Peak Top)   : 1.000000
+    * Min (Peak Bottom): 0.004600
+    * Mean (Average)   : 0.800648
+  + Smoothed Data (Plotted):
+    * Max (Peak Top)   : 1.000000
+    * Min (Peak Bottom): 0.136350
+    * Mean (Average)   : 0.800048
+- Stability Index RSS (rad):
+  + Raw Data:
+    * Max (Peak Top)   : 0.599647
+    * Min (Peak Bottom): 0.004177
+    * Mean (Average)   : 0.149255
+  + Smoothed Data (Plotted):
+    * Max (Peak Top)   : 0.507990
+    * Min (Peak Bottom): 0.008601
+    * Mean (Average)   : 0.149068
+- Body Height (m):
+  + Raw Data:
+    * Max (Peak Top)   : 0.324800
+    * Min (Peak Bottom): 0.082100
+    * Mean (Average)   : 0.221516
+  + Smoothed Data (Plotted):
+    * Max (Peak Top)   : 0.324133
+    * Min (Peak Bottom): 0.100483
+    * Mean (Average)   : 0.221765
+
+
+================================================================================
+CASE STUDY SUMMARY - MAP: WAREHOUSE (Seed: 56)
+================================================================================
+
+** Configuration: Safety Filter On **
+- Velocity X |vx| (m/s):
+  + Raw Data:
+    * Max (Peak Top)   : 1.756300
+    * Min (Peak Bottom): 0.310800
+    * Mean (Average)   : 0.885412
+  + Smoothed Data (Plotted):
+    * Max (Peak Top)   : 1.735950
+    * Min (Peak Bottom): 0.387317
+    * Mean (Average)   : 0.889686
+- Velocity Y |vy| (m/s):
+  + Raw Data:
+    * Max (Peak Top)   : 0.999900
+    * Min (Peak Bottom): 0.014200
+    * Mean (Average)   : 0.454306
+  + Smoothed Data (Plotted):
+    * Max (Peak Top)   : 0.999900
+    * Min (Peak Bottom): 0.126742
+    * Mean (Average)   : 0.452075
+- Stability Index RSS (rad):
+  + Raw Data:
+    * Max (Peak Top)   : 0.307653
+    * Min (Peak Bottom): 0.003966
+    * Mean (Average)   : 0.088098
+  + Smoothed Data (Plotted):
+    * Max (Peak Top)   : 0.234189
+    * Min (Peak Bottom): 0.007286
+    * Mean (Average)   : 0.087444
+- Body Height (m):
+  + Raw Data:
+    * Max (Peak Top)   : 0.340000
+    * Min (Peak Bottom): 0.170400
+    * Mean (Average)   : 0.279541
+  + Smoothed Data (Plotted):
+    * Max (Peak Top)   : 0.319942
+    * Min (Peak Bottom): 0.191200
+    * Mean (Average)   : 0.279455
+
+** Configuration: Safety Filter Off **
+- Velocity X |vx| (m/s):
+  + Raw Data:
+    * Max (Peak Top)   : 2.000000
+    * Min (Peak Bottom): 0.669600
+    * Mean (Average)   : 1.968561
+  + Smoothed Data (Plotted):
+    * Max (Peak Top)   : 2.000000
+    * Min (Peak Bottom): 0.669600
+    * Mean (Average)   : 1.963927
+- Velocity Y |vy| (m/s):
+  + Raw Data:
+    * Max (Peak Top)   : 1.000000
+    * Min (Peak Bottom): 0.004100
+    * Mean (Average)   : 0.715793
+  + Smoothed Data (Plotted):
+    * Max (Peak Top)   : 1.000000
+    * Min (Peak Bottom): 0.082225
+    * Mean (Average)   : 0.715885
+- Stability Index RSS (rad):
+  + Raw Data:
+    * Max (Peak Top)   : 0.528867
+    * Min (Peak Bottom): 0.003744
+    * Mean (Average)   : 0.150428
+  + Smoothed Data (Plotted):
+    * Max (Peak Top)   : 0.440143
+    * Min (Peak Bottom): 0.007286
+    * Mean (Average)   : 0.149477
+- Body Height (m):
+  + Raw Data:
+    * Max (Peak Top)   : 0.321200
+    * Min (Peak Bottom): 0.099300
+    * Mean (Average)   : 0.217228
+  + Smoothed Data (Plotted):
+    * Max (Peak Top)   : 0.298442
+    * Min (Peak Bottom): 0.109558
+    * Mean (Average)   : 0.217561
+
+

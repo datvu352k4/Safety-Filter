@@ -1,0 +1,56 @@
+--- TỔNG HỢP TRUNG BÌNH SUMMARY: MPPI | MAP: map2 ---
+
+** Safety Filter: Tắt (Total runs: 30, Successful: 29) **
+- Success Rate: 96.7%
+- Remaining_Dist: 0.4842 ± 0.0102
+- Total_Time: 48.6731 ± 4.9507
+- Collisions: 1.7241 ± 1.3620
+- Min_Dist: 0.2967 ± 0.0286
+- Actual_Path: 14.9586 ± 0.3503
+- AStar_Path: 15.3100 ± 0.0000
+- RMS_Vx: 0.1143 ± 0.0525
+- RMS_Vy: 0.1937 ± 0.0184
+- RMS_Yaw: 0.3353 ± 0.0165
+- Jerk_Vx: 0.0393 ± 0.0195
+- Jerk_Vy: 0.1876 ± 0.0290
+- Jerk_Yaw: 0.3744 ± 0.0310
+- RMS_Roll: 0.1516 ± 0.0325
+- RMS_Pitch: 0.1508 ± 0.0143
+- Composite_Stability (RSS Roll/Pitch): 0.2151 ± 0.0269 rad
+- Terrain/Friction Change Timestamps (Average across runs):
+  + Change 1: 12.2304 ± 0.4761 s (from 29 runs)
+  + Change 2: 12.3267 ± 0.4776 s (from 29 runs)
+  + Change 3: 25.9281 ± 3.2006 s (from 29 runs)
+  + Change 4: 38.2414 ± 3.8735 s (from 29 runs)
+  + Change 5: 44.9680 ± 5.3196 s (from 29 runs)
+  + Change 6: 45.0636 ± 5.3200 s (from 29 runs)
+  + Change 7: 46.3461 ± 1.3039 s (from 2 runs)
+  + Change 8: 46.4400 ± 1.3041 s (from 2 runs)
+
+** Safety Filter: Bật (Total runs: 30, Successful: 30) **
+- Success Rate: 100.0%
+- Remaining_Dist: 0.4869 ± 0.0080
+- Total_Time: 94.0546 ± 12.0014
+- Collisions: 0.2857 ± 0.7954
+- Min_Dist: 0.3520 ± 0.0611
+- Actual_Path: 15.1000 ± 0.2843
+- AStar_Path: 15.3100 ± 0.0000
+- RMS_Vx: 0.0884 ± 0.0231
+- RMS_Vy: 0.1150 ± 0.0166
+- RMS_Yaw: 0.3390 ± 0.0112
+- Jerk_Vx: 0.0485 ± 0.0104
+- Jerk_Vy: 0.0823 ± 0.0220
+- Jerk_Yaw: 0.3955 ± 0.0162
+- RMS_Roll: 0.0901 ± 0.0122
+- RMS_Pitch: 0.1298 ± 0.0121
+- Composite_Stability (RSS Roll/Pitch): 0.1584 ± 0.0129 rad
+- Terrain/Friction Change Timestamps (Average across runs):
+  + Change 1: 14.0564 ± 0.9489 s (from 28 runs)
+  + Change 2: 14.1547 ± 0.9521 s (from 28 runs)
+  + Change 3: 37.6881 ± 7.7264 s (from 28 runs)
+  + Change 4: 71.7860 ± 9.9357 s (from 28 runs)
+  + Change 5: 88.2591 ± 12.6945 s (from 28 runs)
+  + Change 6: 88.3570 ± 12.6948 s (from 28 runs)
+  + Change 7: 77.5602 ± 0.0000 s (from 1 runs)
+  + Change 8: 77.6571 ± 0.0000 s (from 1 runs)
+

@@ -1,0 +1,38 @@
+--- TỔNG HỢP TRUNG BÌNH SUMMARY: DWA | MAP: warehouse ---
+
+** Safety Filter: Bật (Total runs: 20, Successful: 20) **
+- Success Rate: 100.0%
+- Remaining_Dist: 0.4932
+- Total_Time: 66.2025
+- Collisions: 0.0000
+- Min_Dist: 0.5397
+- Actual_Path: 17.0955
+- AStar_Path: 16.7800
+- RMS_Vx: 0.0357
+- RMS_Vy: 0.0314
+- RMS_Yaw: 0.0370
+- Jerk_Vx: 0.0283
+- Jerk_Vy: 0.0268
+- Jerk_Yaw: 0.0336
+- RMS_Roll: 0.0553
+- RMS_Pitch: 0.0841
+- Composite_Stability (RSS Roll/Pitch): 0.1008 rad
+
+** Safety Filter: Tắt (Total runs: 20, Successful: 19) **
+- Success Rate: 95.0%
+- Remaining_Dist: 0.4868
+- Total_Time: 53.8095
+- Collisions: 1.7895
+- Min_Dist: 0.2892
+- Actual_Path: 19.0711
+- AStar_Path: 16.7800
+- RMS_Vx: 0.1308
+- RMS_Vy: 0.0443
+- RMS_Yaw: 0.0662
+- Jerk_Vx: 0.0505
+- Jerk_Vy: 0.0351
+- Jerk_Yaw: 0.0535
+- RMS_Roll: 0.1189
+- RMS_Pitch: 0.1173
+- Composite_Stability (RSS Roll/Pitch): 0.1677 rad
+
